@@ -12,4 +12,8 @@
   .main_section{
     padding: 4%;
   }
+
+  .beneficios{
+    display: inherit;
+  }
 }
