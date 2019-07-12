@@ -13,7 +13,9 @@
     padding: 4%;
   }
 
-  .beneficios{
+  .beneficios, .mentions{
     display: inherit;
   }
+
+
 }
