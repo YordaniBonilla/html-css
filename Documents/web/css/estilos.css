@@ -135,6 +135,7 @@ hr{
 
 /* Mentions */
 .mentions{
+  align-items:baseline;
   display: flex;
   padding: 5%;
 }
