@@ -6,9 +6,10 @@
 .row {
   display: flex;
   height:auto;
+  padding: 50px;
 }
 .main{
-    margin-left:6px;
+    margin-top:120px;
 }
 .row img{
     width:300px;
