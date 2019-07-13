@@ -18,6 +18,9 @@
   /*------ Espaciado */
   --space:10px;
   --space-2:20px;
+
+  /*------ Box Shadow */
+  --box:0px 0 2px 1px #e6e5e9;
 }
 
 /* -------------------------------------------  */
@@ -163,4 +166,17 @@ footer{
   background-color: var(--black-color);
   padding: var(--space);
   color: var(--white-color);
+}
+
+
+/* -------------------------------------------- Sales */
+
+.modulo_pago{
+  background-color: var(--white-color);
+  box-shadow: var(--box);
+  padding:var(--space);
+}
+
+.modulo{
+    
 }
