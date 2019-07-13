@@ -177,6 +177,9 @@ footer{
   padding:var(--space);
 }
 
-.modulo{
-    
+.modulo_pago_images{
+  max-width: 150px;
+  text-align:center;
+  width: 100%;
+  margin:auto;
 }
