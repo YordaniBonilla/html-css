@@ -31,9 +31,10 @@ html, body{
   color: var(--black-color);
 }
 
-p{
+p, label{
   font-size: var(--normal);
 }
+
 
 nav{
   display: flex;
