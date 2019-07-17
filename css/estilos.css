@@ -186,5 +186,6 @@ footer{
 }
 
 .modulo_pago input{
-  margin-top: var(--space)
+  margin-top: var(--space);
+  width: 100%;
 }
