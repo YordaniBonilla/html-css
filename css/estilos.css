@@ -201,3 +201,7 @@ footer{
 .modulo_pago .main_btn{
   margin-top: 10px;
 }
+
+.contact a{
+  color: var(--green-color);
+}
