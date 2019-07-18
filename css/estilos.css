@@ -197,3 +197,7 @@ footer{
 .modulo_pago input:hover, input:focus{
   border:1px solid var(--green-color);
 }
+
+.modulo_pago .main_btn{
+  margin-top: 10px;
+}
